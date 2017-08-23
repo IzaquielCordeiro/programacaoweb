@@ -1,0 +1,34 @@
+body
+{
+background-color: seagreen;
+}
+
+header
+{
+    border: 2px solid darkblue;
+}
+
+main
+{
+     border: 2px solid darkblue;
+
+}
+
+footer
+{
+    border: 2px solid darkblue;
+
+}
+
+
+h1
+{
+    color:mediumaquamarine;
+    font-family: inherit;
+}
+
+p
+{
+    color:darkorchid;
+    font-family: fantasy;
+}
